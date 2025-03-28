@@ -55,13 +55,13 @@ This is a template code for login and registration functionality using Google, F
 
 5. **Run the project**
 
-   Start the development server with:
+   Start the backend and frontend development server with:
 
    ```bash
-   npm run dev
+   npm start
    ```
 
-   Your server will run at `http://localhost:5000`.
+   Your Backend server will run at `http://localhost:5000` and Frontend will run at `http://localhost:3000`.
 
 6. **Google OAuth Setup**
    - Go to the [Google Developer Console](https://console.developers.google.com/).
